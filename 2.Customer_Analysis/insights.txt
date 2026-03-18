@@ -1,0 +1,8 @@
+Customer Analysis Insights:
+
+- Most customers placed only 1 order
+- Some customers placed multiple orders (repeat customers)
+- Highest orders by a single customer: 4
+
+Conclusion:
+Business should focus on increasing repeat customers to improve revenue.
